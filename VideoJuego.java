@@ -2,7 +2,7 @@ package com.example.practica5ordenamiento;
 
 public class VideoJuego {
 
-    private int    index;
+    private int index;
     private String title;
     private String releaseDate;
     private String team;
